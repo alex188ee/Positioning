@@ -1,0 +1,40 @@
+body
+{
+    padding left: 1000;
+}
+
+#Top
+{
+width: 500px;
+padding: 30px;
+
+}
+
+#Box1
+{
+position: fixed;
+top: 0;
+left: 0;
+padding: 30px;
+Width: 200px;
+height: 75px;
+background-color: #eeeeee;
+}
+
+#Box2
+{
+position: relative;
+padding: 30px;
+Width: 500px;
+height: 250px;
+background-color: #eeeeee;
+}
+
+#Box3
+{
+position: absolute;
+padding: 30px;
+Width: 200px;
+height: 50px;
+background-color: #999999;
+}
